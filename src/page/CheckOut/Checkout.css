@@ -1,0 +1,36 @@
+.ghe {
+    /* Ghế thường*/
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    background-color: rgb(108, 107, 107);
+    color: white;
+}
+
+.gheDaDat {
+    background-color: rgb(240, 66, 66) !important;
+
+    cursor: no-drop;
+}
+
+
+.gheDangDat {
+    background-color: rgb(46, 235, 46);
+}
+
+.gheVip {
+    background-color: rgb(238, 160, 17);
+}
+
+.gheKhachDat {
+    background-color: rgb(47, 9, 198) !important;
+    cursor: no-drop;
+}
+
+.gheKhachDangDat {
+    background-color: rgb(190, 32, 145) !important;
+    cursor: no-drop;
+}
